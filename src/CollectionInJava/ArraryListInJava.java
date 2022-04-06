@@ -11,6 +11,11 @@ public class ArraryListInJava {
 		al2.add("c#");
 		al2.add(20.20f);
 		
+		ArrayList al3=new ArrayList();
+		al3.add("java");
+		al3.add("c#");
+		al3.add(20.20f);
+		
 		
 		//ArrayList al=new ArrayList();
 		//al.add(20);
