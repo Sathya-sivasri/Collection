@@ -40,6 +40,7 @@ public class ArraryListInJava {
 		//	System.out.println(element);//element is a variable give anyting. its variable 
 		//}
 		//this is just to check local
+		//check this in local 
 		
 	}
 
