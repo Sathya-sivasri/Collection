@@ -11,7 +11,7 @@ public class ArraryListInJava {
 		al2.add("c#");
 		al2.add(20.20f);
 		
-		ArrayList al3=new ArrayList();
+		ArrayList al3=new ArrayList();//change it for git hub
 		al3.add("java");
 		al3.add("c#");
 		al3.add(20.20f);
@@ -39,7 +39,6 @@ public class ArraryListInJava {
 		//for(Object element:al) {//object is a class
 		//	System.out.println(element);//element is a variable give anyting. its variable 
 		//}
-		//this is just to check local
 		
 	}
 
