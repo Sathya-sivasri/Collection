@@ -42,8 +42,12 @@ public class ArraryListInJava {
 <<<<<<< HEAD
 =======
 		//this is just to check local
+<<<<<<< HEAD
 		//check this in local 
 >>>>>>> 4b88677e04f81803a0cde19944c7776faebf6b93
+=======
+		//check this in local repo
+>>>>>>> dab24bc201ebdd001732b40fd1f94a3f2aa36132
 		
 	}
 
