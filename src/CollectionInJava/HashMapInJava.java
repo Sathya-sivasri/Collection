@@ -12,6 +12,7 @@ public class HashMapInJava {
 		map.put("100", "sathya");
 		map.put("101", "Sri");
 		map.put("103", "Tom");
+		map.put("104", "senthil");
 		System.out.println(map);
 		System.out.println(map.get(101));
 		System.out.println(map.containsKey(101));
