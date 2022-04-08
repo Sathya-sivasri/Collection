@@ -9,6 +9,8 @@ public class StringDemo {
 		String s ="Java# /is a/ simple #Language";
 		String s1="Java is a simple Language";
 		String s3="Java is a OOP Language";
+		//String s4="Java is a OOP Language";
+		
 		
 		System.out.println(s.charAt(3));
 		System.out.println(s);
