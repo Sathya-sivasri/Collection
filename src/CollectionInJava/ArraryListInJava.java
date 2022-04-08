@@ -39,6 +39,11 @@ public class ArraryListInJava {
 		//for(Object element:al) {//object is a class
 		//	System.out.println(element);//element is a variable give anyting. its variable 
 		//}
+<<<<<<< HEAD
+=======
+		//this is just to check local
+		//check this in local 
+>>>>>>> 4b88677e04f81803a0cde19944c7776faebf6b93
 		
 	}
 
