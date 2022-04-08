@@ -44,3 +44,11 @@ class C extends A{
 	}
 	
 }
+
+class D extends A{
+	int c=70;
+	void showData() {
+		System.out.println("This is printNumber Method of Class D");
+	}
+	
+}
